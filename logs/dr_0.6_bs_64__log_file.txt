@@ -1,0 +1,2 @@
+***** log file start *****2019-06-01 11:36:30.207125
+acc_train,acc_valid,acc_test,cost,runtime,epochs,batch_size,timestamp
