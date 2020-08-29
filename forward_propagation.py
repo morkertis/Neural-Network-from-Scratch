@@ -33,9 +33,7 @@ def linear_forward(A, W, B):
     return Z, linear_cache
 
 
-# =============================================================================
-# fix softmax - need to remove
-# =============================================================================
+
 def sigmoid(Z):
     """
     :param Z: the linear component of the activation function
